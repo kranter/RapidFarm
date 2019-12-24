@@ -1,0 +1,3 @@
+ALL HAIL TO THE NICHROME SOLDERING IRON
+that's my part of our code - sketch for temperature 
+and hunudity sensor "DHT11"
